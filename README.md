@@ -99,26 +99,11 @@ Configuração de ambiente em **Oracle Cloud** para suportar projeto de saúde d
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📊 GitHub Stats
+## 📊 Linguagens Mais Usadas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WesleySoares90&show_icons=true&hide_border=true&bg_color=0A0F1C&title_color=4C8DFF&icon_color=4C8DFF&text_color=C9D6EC&ring_color=1B4B8F"/>
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WesleySoares90&layout=compact&hide_border=true&bg_color=0A0F1C&title_color=4C8DFF&text_color=C9D6EC&langs_count=8"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WesleySoares90&hide_border=true&background=0A0F1C&stroke=1B4B8F&ring=4C8DFF&fire=4C8DFF&currStreakLabel=4C8DFF&sideLabels=C9D6EC&currStreakNum=C9D6EC&sideNums=C9D6EC&dates=6C7A96"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WesleySoares90&hide_border=true&bg_color=0A0F1C&color=4C8DFF&line=1B4B8F&point=C9D6EC&area=true&area_color=1B4B8F"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=WesleySoares90&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1"/>
 
 </div>
 
@@ -128,7 +113,7 @@ Configuração de ambiente em **Oracle Cloud** para suportar projeto de saúde d
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/WesleySoares90/WesleySoares90/output/dist/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/WesleySoares90/WesleySoares90/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
