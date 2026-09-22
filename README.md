@@ -103,8 +103,8 @@ Configuração de ambiente em **Oracle Cloud** para suportar projeto de saúde d
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=WesleySoares90&show_icons=true&hide_border=true&bg_color=0A0F1C&title_color=4C8DFF&icon_color=4C8DFF&text_color=C9D6EC&ring_color=1B4B8F"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleySoares90&layout=compact&hide_border=true&bg_color=0A0F1C&title_color=4C8DFF&text_color=C9D6EC&langs_count=8"/>
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WesleySoares90&show_icons=true&hide_border=true&bg_color=0A0F1C&title_color=4C8DFF&icon_color=4C8DFF&text_color=C9D6EC&ring_color=1B4B8F"/>
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WesleySoares90&layout=compact&hide_border=true&bg_color=0A0F1C&title_color=4C8DFF&text_color=C9D6EC&langs_count=8"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=WesleySoares90&hide_border=true&background=0A0F1C&stroke=1B4B8F&ring=4C8DFF&fire=4C8DFF&currStreakLabel=4C8DFF&sideLabels=C9D6EC&currStreakNum=C9D6EC&sideNums=C9D6EC&dates=6C7A96"/>
 
@@ -118,7 +118,7 @@ Configuração de ambiente em **Oracle Cloud** para suportar projeto de saúde d
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=WesleySoares90&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=WesleySoares90&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1"/>
 
 </div>
 
@@ -128,15 +128,9 @@ Configuração de ambiente em **Oracle Cloud** para suportar projeto de saúde d
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/WesleySoares90/WesleySoares90/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/WesleySoares90/WesleySoares90/output/dist/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
-<!--
-  Para o Snake acima funcionar, adicione a GitHub Action oficial (Platane/snk) ao repositório
-  WesleySoares90/WesleySoares90, gerando o arquivo na branch "output". Sem essa Action configurada,
-  a imagem não será renderizada.
--->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -144,8 +138,7 @@ Configuração de ambiente em **Oracle Cloud** para suportar projeto de saúde d
 
 <div align="center">
 
-<!-- Substitua os links abaixo pelos seus antes de publicar -->
-<a href="LINK_DO_SEU_LINKEDIN_AQUI">
+<a href="https://www.linkedin.com/in/wesley-soares-0b0318185/">
   <img src="https://img.shields.io/badge/LinkedIn-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 <a href="https://instagram.com/SEU_USUARIO_AQUI">
