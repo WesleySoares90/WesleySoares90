@@ -17,3 +17,133 @@
 </div>
 
 <br/>
+
+### `>> ./sobre_mim.sh`
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+Comecei mexendo em fiação elétrica e montagem de computador, e hoje escrevo código que vai pra produção. Essa trajetória — de eletrotécnico a desenvolvedor web — moldou a forma como trabalho: gosto de entender o problema de baixo pra cima, do cabo de rede ao container.
+
+No dia a dia, desenvolvo e mantenho soluções web com **React, Node.js e Quarkus**, cuido de banco de dados em **Oracle SQL** e sustento tudo isso rodando em **microsserviços via Kubernetes**. Também dou suporte técnico N2 e cuido de infraestrutura de TI e redes — então, se o sistema cair, tanto faz se é bug no front ou switch mal configurado, eu resolvo.
+
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Engenharia de Software**, aplicando na prática o que venho estudando. Também estou configurando infraestrutura na **Oracle Cloud** para um projeto em desenvolvimento.
+
+<pre>
+const wesley = {
+  base: "Eletrotécnica",
+  formado: "Análise e Desenvolvimento de Sistemas",
+  cursando: "Engenharia de Software",
+  hoje: "Desenvolvimento Web + Infra",
+  stack: ["React", "Node.js", "Quarkus", "Oracle SQL", "Kubernetes"],
+  modoDeTrabalho: "resolve na causa raiz, não no sintoma"
+};
+</pre>
+
+### `>> ./tecnologias.sh --list`
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+**FRONT-END**
+<br/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=4C8DFF"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+
+**BACK-END & DADOS**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=5FA04E"/>
+<img src="https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus&logoColor=4695EB"/>
+<img src="https://img.shields.io/badge/Oracle_SQL-000000?style=for-the-badge&logo=oracle&logoColor=F80000"/>
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/Oracle_Cloud-000000?style=for-the-badge&logo=oracle&logoColor=C74634"/>
+
+**INFRAESTRUTURA & REDES**
+<br/>
+<img src="https://img.shields.io/badge/Suporte_N2-000000?style=for-the-badge&logo=windowsterminal&logoColor=4C8DFF"/>
+<img src="https://img.shields.io/badge/Redes_Estruturadas-000000?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/>
+<img src="https://img.shields.io/badge/Cybersecurity_Essentials-000000?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/>
+
+</div>
+
+### `>> ./projetos.sh --deploy`
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 📌 WesleySoares90
+Repositório de perfil — onde este README vive e evolui junto comigo.
+
+`Markdown` `GitHub Actions`
+
+[![Repo](https://img.shields.io/badge/ver_repositório-000000?style=for-the-badge&logo=github&logoColor=4C8DFF)](https://github.com/WesleySoares90/WesleySoares90)
+
+</td>
+<td width="50%">
+
+### ☁️ Infraestrutura Cloud
+Configuração de ambiente em **Oracle Cloud** para suportar projeto de saúde digital em desenvolvimento.
+
+`Oracle Cloud` `Infraestrutura`
+
+![](https://img.shields.io/badge/em_configura%C3%A7%C3%A3o-000000?style=for-the-badge&logo=oracle&logoColor=C74634)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+> `// TODO: mais projetos serão adicionados aqui conforme forem publicados`
+
+### `>> ./stats.sh --fetch`
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WesleySoares90&show_icons=true&hide_border=true&bg_color=000000&title_color=4C8DFF&icon_color=4C8DFF&text_color=C9D6EC&ring_color=1B4B8F"/>
+
+</div>
+
+### `>> ./snake.sh --run`
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/WesleySoares90/WesleySoares90/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+### `>> ./contato.sh --connect`
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/wesley-soares-0b0318185/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="https://instagram.com/SEU_USUARIO_AQUI">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+<a href="mailto:wes.gs90@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4B8F,50:0A0F1C,100:000000&height=120&section=footer"/>
+
+<div align="center">
+<sub><code>$ echo "do disjuntor ao deploy — construindo, um commit por vez ⚡"</code></sub>
+</div>
